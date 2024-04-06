@@ -1,0 +1,5 @@
+for (let x = 0; x < 10; x++) {
+  console.log(x);
+} 
+
+// [1] for: The for loop is a control flow statement that allows you to execute a block of code repeatedly. It consists of three parts: initialization, condition, and iteration expression. [2] let x = 0;: This is the initialization part of the loop. It declares a variable x and initializes it to 0. This is typically the starting point of the loop. [3] x < 10;: This is the condition part of the loop. It specifies the condition that must be true for the loop to continue iterating. In this case, the loop will continue as long as the value of x is less than 10. [4] x++: This is the iteration expression. It is executed after each iteration of the loop. In this case, x++ is equivalent to x = x + 1, so it increments the value of x by 1 after each iteration. [5] console.log(x);: This line is the body of the loop. It prints the current value of x to the console during each iteration. [6] So, when you run this loop, it will print the numbers from 0 to 9 to the console, as x starts at 0 and increments by 1 each time until it reaches 9, at which point the condition x < 10 becomes false, and the loop terminates.

@@ -1,0 +1,6 @@
+// The following code example is a valid arrow function expression:
+const greetings = () => console.log('Hello World!');
+greetings(); 
+
+
+// This JavaScript code demonstrates the usage of arrow functions. Let's break it down: const greetings = () => console.log('Hello World!'); greetings(); [1] Arrow Function Declaration: const greetings = () => console.log('Hello World!'); - This line declares a constant greetings and assigns it an arrow function. Arrow functions are a concise way of writing function expressions in JavaScript. In this case, the arrow function takes no arguments (), and its body simply logs 'Hello World!' to the console. [2] Function Invocation: greetings(); - This line invokes the greetings function. When executed, it logs 'Hello World!' to the console, as defined in the arrow function's body. [//3]] So,  when you run this code, it will print 'Hello World!' to the console. Arrow functions are often used for their concise syntax, especially for short, one-line functions like this one.
